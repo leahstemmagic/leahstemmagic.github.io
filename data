@@ -1,0 +1,91 @@
+<!Doctype>
+<html>
+	<head>
+<style>
+p {color:black; font-size:18pt;}
+body {margin:0;}
+h1 {text-color:black;font-size:45pt;}
+.topnavigationbar {overflow: hidden; background-color:33BBFF; position: fixed; top: 0;width:100%;}
+.topnavigationbar a {float:left; display: block; color: white; text-align:center; padding:14px 16px;text decoration: none;font-size: 17px;}
+.topnavigationbar a:hover {background:#ddd;color:black;}
+.main {padding:16px;margin-top: 30px;}
+div.gallery {
+         margin: 2px;
+         border: 0px solid #777;
+         float: center;
+         width: 180px;
+     }
+     
+div.gallery:hover{
+    border:0px solid #777;
+}
+div.gallery img{
+    width:180;
+    height:150;
+}
+div.desc {
+    padding: 15px;
+    text-align: center;
+    color: black; 
+    background-color:Aqua;
+}
+ 
+</style>
+	
+
+<meta name="viewport" context="width=device-width, initial-scale=1">	
+	</head>
+
+<body background-color="A4DDF9">
+<center>
+
+<div class="topnavigationbar">
+<a href="magic website.html">Home</a>
+<a href="payment.html">Behind the project</a>
+
+</div>
+ <div class=main>
+
+<p style text-align="center" id="para1">
+
+
+	 <h1><u>Temperature sensor research project:Data</u></h1>
+	 
+
+<p> Here are graphs which display the different kinds of data we collected:
+<img src= mock graph
+
+</p>
+
+
+
+
+  <div class="gallery">
+     <a target="_blank" href="blank.html"> <img src="https://previews.123rf.com/images/tadamichi/tadamichi1611/tadamichi161100010/69108708-document-charts-and-magnifying-glass-on-gray-reflection-background-reviewing-business-report-looking.jpg" width="150" height="150">
+  <div class="desc">Click here to view the data</div></a>
+ </div>
+
+</center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
